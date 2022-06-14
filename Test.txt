@@ -1,1 +1,3 @@
-I am learnig QA
+I am learnig QA.
+
+I have already learned GIT! 
